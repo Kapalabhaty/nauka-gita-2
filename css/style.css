@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://i.postimg.cc/FRyDWs7F/pexels-nati-11332250.jpg);
+    background-size: cover;
+    color: #f5f6fa;
+}
+
+.center {
+    margin: auto;
+    width: 450px;
+    padding: 10px;
+}
+
+.main-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.author {
+    font-size: 16px;
+    font-style: oblique;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.verse, .chorus {
+    margin: 40px 0;
+}
